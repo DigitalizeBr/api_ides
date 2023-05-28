@@ -11,3 +11,6 @@ psycopg2-binary            # Database Driver
 alembic                    # Database Migrations
 rich                       # Terminal formatting
 fastapi-pagination         # Pagination
+OpenSearch                 # Search Engineering
+opensearch_dsl             # Lib Search Engineering use DSL
+nltk                       # Natural Language Processing
