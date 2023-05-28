@@ -14,3 +14,7 @@ fastapi-pagination         # Pagination
 OpenSearch                 # Search Engineering
 opensearch_dsl             # Lib Search Engineering use DSL
 nltk                       # Natural Language Processing
+Pillow==9.3.0
+pytesseract==0.3.10
+python-dotenv==0.21.0
+python-multipart==0.0.5
