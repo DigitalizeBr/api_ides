@@ -1,6 +1,7 @@
 from opensearchpy import OpenSearch
 from opensearch_dsl import Search
 
+
 class MetaSingleton(type):
     _instances = []
     def __call__(cls, *args, **kwargs):
