@@ -1,0 +1,4 @@
+- name: 'Qodana Scan'
+  uses: JetBrains/qodana-action@main
+  env:
+    QODANA_TOKEN: ${{ eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJvcmdhbml6YXRpb24iOiJBZ05kcSIsInByb2plY3QiOiIzZWxPYSIsInRva2VuIjoiQU9nTmoifQ.Ux_c01PjFyJMOpcT2rN7vJhagB3CdRiySOnRYekW6nU }}
